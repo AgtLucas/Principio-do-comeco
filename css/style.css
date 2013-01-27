@@ -1,0 +1,35 @@
+body {
+	background: #f3f3f3;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+
+.content {
+	width: 60em;
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.content h1 {
+	font-size: 3.125em;
+}
+
+.content h1 a {
+	text-decoration: none;
+}
+
+.content nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.content nav ul li {
+	display: inline;
+	margin-right: 30px;
+}
+
+.content nav ul li a {
+	text-decoration: none;
+}
