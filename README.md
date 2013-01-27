@@ -1,4 +1,4 @@
 Principio-do-come-o
 ===================
 
-Principio-do-começo
+Principio-do-começo All Rights Reserved!
